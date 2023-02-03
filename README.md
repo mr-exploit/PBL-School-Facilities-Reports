@@ -69,23 +69,39 @@ role users
 ![image](https://user-images.githubusercontent.com/65493711/216624244-e4e3db9d-26e5-47c5-b90b-c4891c320ad1.png)
 
 6. next, you add new kerusakan, and you can add report kerusakan as the image below, you can only add image files as jpg,jpeg and png, next you save 
+
 ![image](https://user-images.githubusercontent.com/65493711/216625097-7a1529c4-5c07-44ec-aaef-087487d9c76b.png)
 
 7.You can see the report kerusakan data that you added as shown below, you can edit report kerusakan or delete report kerusakan
+
 ![image](https://user-images.githubusercontent.com/65493711/216625440-0326d006-6a15-4dc5-969c-83246d6b1aae.png)
 
 8. next , you can add report facilities as the image below
+
 ![image](https://user-images.githubusercontent.com/65493711/216626448-e2f98142-00c5-4e2c-8e5d-615169647ba5.png)
 
 10. You can see the report facilities data that you added as shown below, you can edit report facilities or delete report facilities
+
 ![image](https://user-images.githubusercontent.com/65493711/216626690-1a19ad0e-696e-4ccc-9fd9-122212b27840.png)
 
 11. next , you can see the validation report kerusakan as image below, data report kerusakan not yet validation
+
 ![image](https://user-images.githubusercontent.com/65493711/216626948-666193eb-cd73-4de2-8262-5ccf025af10e.png)
 
 12. next , you can see the validation report kerusakan as image below, data report facilities not yet validation
+
 ![image](https://user-images.githubusercontent.com/65493711/216627273-a67fa366-5599-4bce-b51a-c068b2e80e61.png)
 
 next, now we will move to the admin role, please exit by clicking log out
-admin
 
+role admin
+1. you can see the school data as image below
+![image](https://user-images.githubusercontent.com/65493711/216627887-958a5298-4fda-43fe-a08c-af2a9f2df86d.png)
+
+2. you can see the data in the report kerusakan, and you can validate the data.
+![image](https://user-images.githubusercontent.com/65493711/216628623-3cd5f721-1ea1-41af-b6a9-d8c6d36e300e.png)
+
+3. if the image matches you can validate the data as diterima(accepted), but if it doesn't match you can make the data validation ditolak (rejected), klik validasi
+ ![image](https://user-images.githubusercontent.com/65493711/216629082-1a56a9ab-0c06-44bc-b835-5dec8fb89e68.png)
+
+4. 
