@@ -52,7 +52,17 @@ role admin
 
 role users
 1. for user role users the first thing to do is to create school data.
-2. klik add data school, you can see the picture below
+2. klik add new in data school, you can see the picture below
 
 ![image](https://user-images.githubusercontent.com/65493711/216621492-318063ac-f1ed-414c-9707-830033344b92.png)
-3. 
+
+3.next, You can add school data like the image below
+
+![image](https://user-images.githubusercontent.com/65493711/216622487-e7a229d8-863e-419e-a781-61e6bb4e135a.png)
+
+4. you can edit school data or delete school data
+
+
+dan anda akan
+4. next, 
+
