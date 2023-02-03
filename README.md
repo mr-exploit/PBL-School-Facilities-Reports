@@ -106,4 +106,7 @@ role admin
 
 4. you can do the same for the report facilities
 
+5. you can see report kerusakan as image below
+![image](https://user-images.githubusercontent.com/65493711/216631100-a9bb7930-eac7-4745-9def-9599c419f246.png)
+
 thanks you
