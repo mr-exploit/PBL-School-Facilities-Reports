@@ -13,3 +13,10 @@ folder backend :
 5. type npm install
 6. type npm start
 ![image](https://user-images.githubusercontent.com/65493711/216616594-70bfe81c-25b0-4de0-aae8-69ba1406a32c.png)
+
+folder frontend :
+1. open new terminal in vscode
+2. cd frontend
+3. npm install
+4. npm start
+![image](https://user-images.githubusercontent.com/65493711/216617529-33b80870-ae2d-4f3d-bdd9-94cf23ba0e58.png)
