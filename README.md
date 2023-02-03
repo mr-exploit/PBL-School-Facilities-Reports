@@ -25,7 +25,7 @@ folder frontend :
 4. npm start
 ![image](https://user-images.githubusercontent.com/65493711/216618196-0e2b0a02-ad8a-45af-b9a1-85f2c9d9bedc.png)
 
-you will enter the login feature
+you will enter the feature login
 ![image](https://user-images.githubusercontent.com/65493711/216618788-e205f0a8-066a-42f5-801b-cbe0a333a606.png)
 
 5.for the login you can enter the data below, there are 2 features that are used, one for admin and one for users
@@ -41,4 +41,18 @@ user
     password : 123456
     
 or you can check user-specific data on the admin page
+
 ![image](https://user-images.githubusercontent.com/65493711/216619201-73237330-8ec7-4567-a69e-40e686013cde.png)
+
+for admin use, namely creating new user data, validating data kerusakan reports and facilities reports
+
+We will provide ways to use the website for user and admin roles.
+role admin
+1. add users
+
+role users
+1. for user role users the first thing to do is to create school data.
+2. klik add data school, you can see the picture below
+
+![image](https://user-images.githubusercontent.com/65493711/216621492-318063ac-f1ed-414c-9707-830033344b92.png)
+3. 
