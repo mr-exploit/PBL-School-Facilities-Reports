@@ -104,4 +104,6 @@ role admin
 3. if the image matches you can validate the data as diterima(accepted), but if it doesn't match you can make the data validation ditolak (rejected), klik validasi
  ![image](https://user-images.githubusercontent.com/65493711/216629082-1a56a9ab-0c06-44bc-b835-5dec8fb89e68.png)
 
-4. 
+4. you can do the same for the report facilities
+
+thanks you
