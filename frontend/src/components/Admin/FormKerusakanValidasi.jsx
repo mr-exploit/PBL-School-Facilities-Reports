@@ -64,7 +64,7 @@ const FormEditValidasi = () => {
                     "Content-Type": "multipart/form-data",
                 },
             });
-            navigate("laporan/kerusakan/reviewlaporan");
+            navigate("/laporan/kerusakan/reviewlaporan");
         } catch (error) {
             if(error.response){
                 setMsg(error.response.data.msg);
