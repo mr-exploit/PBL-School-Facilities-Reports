@@ -1,7 +1,5 @@
 # PBL-School-Facilities-Reports
 
-PolarDB Global Hackathon 2023 is an open-themed coding innovation contest for global developers to create cloud-native relational databases with PolarDB feature by Alibaba Cloud.
-
 how to use the website application SILAH
 
 because here we use 2 technologies, so we will provide 2 tutorials on how to install the backend and frontend folders
